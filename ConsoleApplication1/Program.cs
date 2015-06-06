@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World - PeliGo number 4" );
+            Console.WriteLine("Hello World - PeliGo number 5" );
+            Console.WriteLine("Hello World - en clase :333");
             Console.ReadLine();
           
         }
